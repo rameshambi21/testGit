@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfasdfasdfasd
+=======
+i just try to edit the this now1263
+>>>>>>> origin/master
